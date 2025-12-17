@@ -1,0 +1,14 @@
+site_name: Документація до Калькулятора
+site_author: Анастасія Андрійчук
+site_description: 'Проста та зрозуміла документація для консольного калькулятора.'
+
+theme:
+  name: material
+  language: uk
+
+nav:
+  - 'Головна': 'index.md'
+  - 'Посібник користувача':
+      - 'Встановлення': 'guide/installation.md'
+      - 'Приклади використання': 'guide/usage.md'
+  - 'Про проєкт': 'about.md'
